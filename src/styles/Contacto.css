@@ -1,0 +1,25 @@
+.contacto {
+  padding: 2rem;
+  text-align: center;
+  background-color: #f8f9fa;
+}
+
+.contacto h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.contacto p {
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+}
+
+.correo {
+  font-size: 1.1rem;
+  color: #0077cc;
+  text-decoration: none;
+}
+
+.correo:hover {
+  text-decoration: underline;
+}
