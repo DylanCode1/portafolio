@@ -6,7 +6,7 @@ function Proyectos() {
       <h2>Proyectos</h2>
       <div className="proyecto-lista">
         <div className="proyecto">
-          <h3>App Control de Gastos</h3>
+          <h3>Control de Gastos</h3>
           <p>Aplicación para registrar y visualizar gastos con React.</p>
           <a className="btn-repo" href="https://github.com/DylanCode1/control-gastos" target="_blank" rel="noopener noreferrer">
             Ver repositorio
@@ -22,7 +22,7 @@ function Proyectos() {
         </div>
 
         <div className="proyecto">
-          <h3>New Project</h3>
+          <h3>Rutas y componentes</h3>
           <p>Gestor de tareas con interfaz amigable, usando React.</p>
           <a className="btn-repo" href="https://github.com/DylanCode1/rutas-componentes" target="_blank" rel="noopener noreferrer">
             Ver repositorio
